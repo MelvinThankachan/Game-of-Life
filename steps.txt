@@ -1,0 +1,7 @@
+1. --(Done) Install pygame-ce
+2. --(Done) Create Blank Screen and the Simulation Loop
+3. --(Done) Create the Grid
+4. --(Done) Count live neighbors
+5. --(Done) Implement Simulation Rules
+6. --() Starting and Stopping the Simulation
+7. --() Create Custom initial State
